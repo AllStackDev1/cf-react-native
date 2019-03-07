@@ -10,7 +10,7 @@ import {
   KeyboardAvoidingView
 } from 'react-native';
 import { loginScreenCss } from '../../assets/css/';
-import LoginForm from '../../components/forms/login/'
+import LoginForm from '../../components/forms/login/';
 
 // eslint-disable-next-line react/prefer-stateless-function
 export default class LoginScreen extends Component {
